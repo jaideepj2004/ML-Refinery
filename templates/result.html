@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Model Training Results</title>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Model Training Results</h1>
+
+    <div class="logs">
+      <h2>Logs</h2>
+      {% for log in logs %}
+        <p>{{ log }}</p>
+      {% endfor %}
+    </div>
+
+    <div class="selected-features">
+      <h2>Selected Features</h2>
+      <p><strong>Features Selected:</strong> {{ selected_features | join(', ') }}</p>
+    </div>
+
+    <div class="performance">
+      <h2>Model Performance (After Tuning Where Applied)</h2>
+      <table>
+        <tr>
+          <th>Model</th>
+          <th>
+            {% if results.values()|list|first is mapping and 'Accuracy' in results.values()|list|first %}
+              Accuracy
+            {% else %}
+              MSE
+            {% endif %}
+          </th>
+        </tr>
+        {% for model, metrics in results.items() %}
+        <tr>
+          <td>{{ model }}</td>
+          <td>{{ metrics.values()|list|first }}</td>
+        </tr>
+        {% endfor %}
+      </table>
+    </div>
+
+    <div class="best-model">
+      <h2>Best Models</h2>
+      <p><strong>Top Models:</strong> {{ best_models | join(', ') }}</p>
+      <p><strong>Hyperparameters:</strong></p>
+      <ul>
+        {% for model, params in best_params.items() %}
+          <li>{{ model }}: {{ params }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="tuned-model">
+      <h2>Best Tuned Model</h2>
+      <p><strong>Best Tuned Model:</strong> {{ best_tuned_model }}</p>
+    </div>
+
+    {% if download_model %}
+      <div class="download">
+        <a href="/download_model" class="btn">Download Best Model (.pkl)</a>
+      </div>
+    {% endif %}
+
+    <a href="/" class="btn">Back to Home</a>
+  </div>
+</body>
+</html>

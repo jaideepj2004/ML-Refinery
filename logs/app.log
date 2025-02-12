@@ -1,0 +1,1540 @@
+2025-02-09 21:04:47,361 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-09 21:04:47,361 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-09 21:04:47,361 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-09 21:04:48,556 -  * Restarting with watchdog (windowsapi)
+2025-02-09 21:04:50,253 -  * Debugger is active!
+2025-02-09 21:04:50,256 -  * Debugger PIN: 135-829-333
+2025-02-09 21:04:58,013 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-09 21:04:58,014 - [33mPress CTRL+C to quit[0m
+2025-02-09 21:04:58,022 -  * Restarting with watchdog (windowsapi)
+2025-02-09 21:04:59,791 -  * Debugger is active!
+2025-02-09 21:04:59,793 -  * Debugger PIN: 135-829-333
+2025-02-09 21:05:02,301 - 127.0.0.1 - - [09/Feb/2025 21:05:02] "GET / HTTP/1.1" 200 -
+2025-02-09 21:05:02,319 - 127.0.0.1 - - [09/Feb/2025 21:05:02] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-09 21:05:19,535 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Tuned hyperparameters for Random Forest Regressor: {'n_estimators': 200}
+2025-02-09 21:05:19,572 - 127.0.0.1 - - [09/Feb/2025 21:05:19] "POST /process HTTP/1.1" 200 -
+2025-02-09 21:05:19,665 - 127.0.0.1 - - [09/Feb/2025 21:05:19] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-09 21:05:56,121 - 127.0.0.1 - - [09/Feb/2025 21:05:56] "GET / HTTP/1.1" 200 -
+2025-02-09 21:05:56,143 - 127.0.0.1 - - [09/Feb/2025 21:05:56] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-09 21:06:31,285 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mode.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Logistic Regression model.
+Trained Random Forest model.
+Trained SVM model.
+Trained Decision Tree model.
+Trained KNN model.
+Trained Naïve Bayes model.
+Trained AdaBoost model.
+Trained Gradient Boosting model.
+Trained XGBoost model.
+Tuned hyperparameters for Gradient Boosting: {'learning_rate': 0.01, 'n_estimators': 200}
+2025-02-09 21:06:31,287 - 127.0.0.1 - - [09/Feb/2025 21:06:31] "POST /process HTTP/1.1" 200 -
+2025-02-09 21:06:31,311 - 127.0.0.1 - - [09/Feb/2025 21:06:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-09 21:10:34,008 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-09 21:10:35,220 -  * Restarting with watchdog (windowsapi)
+2025-02-09 21:14:17,016 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-09 21:14:17,016 - [33mPress CTRL+C to quit[0m
+2025-02-09 21:14:17,024 -  * Restarting with watchdog (windowsapi)
+2025-02-09 21:14:18,598 -  * Debugger is active!
+2025-02-09 21:14:18,600 -  * Debugger PIN: 135-829-333
+2025-02-09 21:14:57,270 - 127.0.0.1 - - [09/Feb/2025 21:14:57] "GET / HTTP/1.1" 200 -
+2025-02-09 21:14:57,290 - 127.0.0.1 - - [09/Feb/2025 21:14:57] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-09 21:15:12,546 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Tuned hyperparameters for Random Forest Regressor: {'n_estimators': 100}
+2025-02-09 21:15:12,603 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\flask\\templating.py', reloading
+2025-02-09 21:15:12,606 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2025-02-09 21:15:12,613 - 127.0.0.1 - - [09/Feb/2025 21:15:12] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+2025-02-09 21:15:12,721 - 127.0.0.1 - - [09/Feb/2025 21:15:12] "[36mGET /process?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-09 21:15:12,723 - 127.0.0.1 - - [09/Feb/2025 21:15:12] "[36mGET /process?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-09 21:15:12,752 - 127.0.0.1 - - [09/Feb/2025 21:15:12] "[36mGET /process?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-09 21:15:12,776 - 127.0.0.1 - - [09/Feb/2025 21:15:12] "[36mGET /process?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-09 21:15:13,833 -  * Restarting with watchdog (windowsapi)
+2025-02-09 21:15:15,508 -  * Debugger is active!
+2025-02-09 21:15:15,511 -  * Debugger PIN: 135-829-333
+2025-02-09 21:19:36,066 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-09 21:19:36,066 - [33mPress CTRL+C to quit[0m
+2025-02-09 21:19:36,076 -  * Restarting with watchdog (windowsapi)
+2025-02-09 21:19:37,862 -  * Debugger is active!
+2025-02-09 21:19:37,864 -  * Debugger PIN: 135-829-333
+2025-02-09 21:19:40,997 - 127.0.0.1 - - [09/Feb/2025 21:19:40] "GET / HTTP/1.1" 200 -
+2025-02-09 21:19:41,014 - 127.0.0.1 - - [09/Feb/2025 21:19:41] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-09 21:19:57,932 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Tuned hyperparameters for Random Forest Regressor: {'n_estimators': 200}
+2025-02-09 21:19:57,972 - 127.0.0.1 - - [09/Feb/2025 21:19:57] "POST /process HTTP/1.1" 200 -
+2025-02-09 21:20:17,983 - 127.0.0.1 - - [09/Feb/2025 21:20:17] "GET / HTTP/1.1" 200 -
+2025-02-09 21:20:18,000 - 127.0.0.1 - - [09/Feb/2025 21:20:18] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-09 21:20:58,141 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mode.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Logistic Regression model.
+Trained Random Forest model.
+Trained SVM model.
+Trained Decision Tree model.
+Trained KNN model.
+Trained Naïve Bayes model.
+Trained AdaBoost model.
+Trained Gradient Boosting model.
+Trained XGBoost model.
+Tuned hyperparameters for Gradient Boosting: {'learning_rate': 0.01, 'n_estimators': 200}
+2025-02-09 21:20:58,143 - 127.0.0.1 - - [09/Feb/2025 21:20:58] "POST /process HTTP/1.1" 200 -
+2025-02-09 21:23:58,076 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-09 21:23:58,076 - [33mPress CTRL+C to quit[0m
+2025-02-09 21:23:58,083 -  * Restarting with watchdog (windowsapi)
+2025-02-09 21:23:59,888 -  * Debugger is active!
+2025-02-09 21:23:59,892 -  * Debugger PIN: 135-829-333
+2025-02-09 21:24:03,443 - 127.0.0.1 - - [09/Feb/2025 21:24:03] "GET / HTTP/1.1" 200 -
+2025-02-09 21:24:03,459 - 127.0.0.1 - - [09/Feb/2025 21:24:03] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-09 21:24:20,983 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Tuned hyperparameters for Random Forest Regressor: {'n_estimators': 200}
+2025-02-09 21:24:21,014 - 127.0.0.1 - - [09/Feb/2025 21:24:21] "POST /process HTTP/1.1" 200 -
+2025-02-11 02:46:48,117 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-11 02:46:48,117 - [33mPress CTRL+C to quit[0m
+2025-02-11 02:46:48,149 -  * Restarting with watchdog (windowsapi)
+2025-02-11 02:46:50,452 -  * Debugger is active!
+2025-02-11 02:46:50,463 -  * Debugger PIN: 256-201-179
+2025-02-11 02:47:11,272 - 127.0.0.1 - - [11/Feb/2025 02:47:11] "GET / HTTP/1.1" 200 -
+2025-02-11 02:47:11,291 - 127.0.0.1 - - [11/Feb/2025 02:47:11] "GET / HTTP/1.1" 200 -
+2025-02-11 02:47:11,351 - 127.0.0.1 - - [11/Feb/2025 02:47:11] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-11 02:47:11,367 - 127.0.0.1 - - [11/Feb/2025 02:47:11] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-11 02:47:11,554 - 127.0.0.1 - - [11/Feb/2025 02:47:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-11 02:48:07,005 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Tuned hyperparameters for Random Forest Regressor: {'n_estimators': 100}
+2025-02-11 02:48:07,038 - 127.0.0.1 - - [11/Feb/2025 02:48:07] "POST /process HTTP/1.1" 200 -
+2025-02-11 02:50:20,043 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-11 02:50:20,044 - [33mPress CTRL+C to quit[0m
+2025-02-11 02:50:20,065 -  * Restarting with watchdog (windowsapi)
+2025-02-11 02:50:22,767 -  * Debugger is active!
+2025-02-11 02:50:22,775 -  * Debugger PIN: 256-201-179
+2025-02-11 02:50:25,140 - 127.0.0.1 - - [11/Feb/2025 02:50:25] "GET / HTTP/1.1" 200 -
+2025-02-11 02:50:25,165 - 127.0.0.1 - - [11/Feb/2025 02:50:25] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-11 02:50:37,342 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\ensemble\\_weight_boosting.py', reloading
+2025-02-11 02:50:38,705 -  * Restarting with watchdog (windowsapi)
+2025-02-11 02:50:41,190 -  * Debugger is active!
+2025-02-11 02:50:41,193 -  * Debugger PIN: 256-201-179
+2025-02-11 02:50:55,204 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-11 02:50:55,204 - [33mPress CTRL+C to quit[0m
+2025-02-11 02:50:55,219 -  * Restarting with watchdog (windowsapi)
+2025-02-11 02:50:57,864 -  * Debugger is active!
+2025-02-11 02:50:57,868 -  * Debugger PIN: 256-201-179
+2025-02-11 02:51:00,248 - 127.0.0.1 - - [11/Feb/2025 02:51:00] "GET / HTTP/1.1" 200 -
+2025-02-11 02:51:00,279 - 127.0.0.1 - - [11/Feb/2025 02:51:00] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-11 02:51:37,427 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mode.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Logistic Regression model.
+Trained Random Forest model.
+Trained SVM model.
+Trained Decision Tree model.
+Trained KNN model.
+Trained Naïve Bayes model.
+Trained AdaBoost model.
+Trained Gradient Boosting model.
+Trained XGBoost model.
+Tuned hyperparameters for Gradient Boosting: {'learning_rate': 0.2, 'n_estimators': 100}
+2025-02-11 02:51:37,436 - 127.0.0.1 - - [11/Feb/2025 02:51:37] "POST /process HTTP/1.1" 200 -
+2025-02-11 02:55:24,214 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 02:55:24,215 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 02:55:24,216 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 02:55:25,448 -  * Restarting with watchdog (windowsapi)
+2025-02-11 02:57:57,570 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-11 02:57:57,570 - [33mPress CTRL+C to quit[0m
+2025-02-11 02:57:57,583 -  * Restarting with watchdog (windowsapi)
+2025-02-11 02:57:59,918 -  * Debugger is active!
+2025-02-11 02:57:59,921 -  * Debugger PIN: 256-201-179
+2025-02-11 02:58:01,077 - 127.0.0.1 - - [11/Feb/2025 02:58:01] "GET / HTTP/1.1" 200 -
+2025-02-11 02:58:01,103 - 127.0.0.1 - - [11/Feb/2025 02:58:01] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-11 02:58:12,552 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+2025-02-11 02:58:12,559 - 127.0.0.1 - - [11/Feb/2025 02:58:12] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+2025-02-11 02:58:12,769 - 127.0.0.1 - - [11/Feb/2025 02:58:12] "[36mGET /process?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-11 02:58:12,773 - 127.0.0.1 - - [11/Feb/2025 02:58:12] "[36mGET /process?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-11 02:58:12,788 - 127.0.0.1 - - [11/Feb/2025 02:58:12] "[36mGET /process?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-11 02:58:12,842 - 127.0.0.1 - - [11/Feb/2025 02:58:12] "[36mGET /process?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-11 02:58:14,082 -  * Restarting with watchdog (windowsapi)
+2025-02-11 02:58:16,375 -  * Debugger is active!
+2025-02-11 02:58:16,379 -  * Debugger PIN: 256-201-179
+2025-02-11 03:01:25,018 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 03:01:25,024 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 03:01:25,025 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 03:01:26,254 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:01:28,689 -  * Debugger is active!
+2025-02-11 03:01:28,692 -  * Debugger PIN: 256-201-179
+2025-02-11 03:01:54,070 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-11 03:01:54,071 - [33mPress CTRL+C to quit[0m
+2025-02-11 03:01:54,084 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:01:56,556 -  * Debugger is active!
+2025-02-11 03:01:56,560 -  * Debugger PIN: 256-201-179
+2025-02-11 03:01:58,672 - 127.0.0.1 - - [11/Feb/2025 03:01:58] "GET / HTTP/1.1" 200 -
+2025-02-11 03:01:58,702 - 127.0.0.1 - - [11/Feb/2025 03:01:58] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-11 03:02:22,335 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Tuned hyperparameters for Decision Tree Regressor: {'max_depth': 10}
+Updated Decision Tree Regressor score after tuning: {'MSE': 1.43}
+Tuned hyperparameters for XGBoost Regressor: {'learning_rate': 0.01, 'n_estimators': 50}
+Updated XGBoost Regressor score after tuning: {'MSE': 0.97}
+Tuned hyperparameters for Random Forest Regressor: {'n_estimators': 100}
+Updated Random Forest Regressor score after tuning: {'MSE': 1.1}
+2025-02-11 03:02:22,402 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\flask\\templating.py', reloading
+2025-02-11 03:02:22,404 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2025-02-11 03:02:22,414 - 127.0.0.1 - - [11/Feb/2025 03:02:22] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+2025-02-11 03:02:22,616 - 127.0.0.1 - - [11/Feb/2025 03:02:22] "[36mGET /process?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-11 03:02:22,620 - 127.0.0.1 - - [11/Feb/2025 03:02:22] "[36mGET /process?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-11 03:02:22,665 - 127.0.0.1 - - [11/Feb/2025 03:02:22] "[36mGET /process?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-11 03:02:23,698 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:02:26,395 -  * Debugger is active!
+2025-02-11 03:02:26,399 -  * Debugger PIN: 256-201-179
+2025-02-11 03:03:52,478 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-11 03:03:52,478 - [33mPress CTRL+C to quit[0m
+2025-02-11 03:03:52,491 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:03:54,889 -  * Debugger is active!
+2025-02-11 03:03:54,893 -  * Debugger PIN: 256-201-179
+2025-02-11 03:04:25,457 - 127.0.0.1 - - [11/Feb/2025 03:04:25] "GET / HTTP/1.1" 200 -
+2025-02-11 03:04:25,486 - 127.0.0.1 - - [11/Feb/2025 03:04:25] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-11 03:04:50,589 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Tuned hyperparameters for Decision Tree Regressor: {'max_depth': 10}
+Updated Decision Tree Regressor score after tuning: {'MSE': 1.43}
+Tuned hyperparameters for XGBoost Regressor: {'learning_rate': 0.01, 'n_estimators': 50}
+Updated XGBoost Regressor score after tuning: {'MSE': 0.97}
+Tuned hyperparameters for Random Forest Regressor: {'n_estimators': 200}
+Updated Random Forest Regressor score after tuning: {'MSE': 1.12}
+2025-02-11 03:04:50,636 - 127.0.0.1 - - [11/Feb/2025 03:04:50] "POST /process HTTP/1.1" 200 -
+2025-02-11 03:08:25,066 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 03:08:25,076 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 03:08:26,311 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:09:15,185 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-11 03:09:15,185 - [33mPress CTRL+C to quit[0m
+2025-02-11 03:09:15,200 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:09:17,573 -  * Debugger is active!
+2025-02-11 03:09:17,575 -  * Debugger PIN: 256-201-179
+2025-02-11 03:09:21,318 - 127.0.0.1 - - [11/Feb/2025 03:09:21] "GET / HTTP/1.1" 200 -
+2025-02-11 03:09:21,358 - 127.0.0.1 - - [11/Feb/2025 03:09:21] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-11 03:09:45,598 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Tuned hyperparameters for Decision Tree Regressor: {'max_depth': 10}
+Updated Decision Tree Regressor score after tuning: {'MSE': 1.44}
+Tuned hyperparameters for XGBoost Regressor: {'learning_rate': 0.01, 'n_estimators': 50}
+Updated XGBoost Regressor score after tuning: {'MSE': 0.97}
+Tuned hyperparameters for Random Forest Regressor: {'n_estimators': 200}
+Updated Random Forest Regressor score after tuning: {'MSE': 1.11}
+2025-02-11 03:09:45,602 - 127.0.0.1 - - [11/Feb/2025 03:09:45] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+2025-02-11 03:09:45,699 - 127.0.0.1 - - [11/Feb/2025 03:09:45] "[36mGET /process?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-11 03:09:45,702 - 127.0.0.1 - - [11/Feb/2025 03:09:45] "[36mGET /process?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-11 03:09:45,734 - 127.0.0.1 - - [11/Feb/2025 03:09:45] "[36mGET /process?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-11 03:09:45,848 - 127.0.0.1 - - [11/Feb/2025 03:09:45] "[36mGET /process?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-11 03:10:40,135 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 03:10:41,379 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:10:46,148 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-11 03:10:46,148 - [33mPress CTRL+C to quit[0m
+2025-02-11 03:10:46,162 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:10:48,625 -  * Debugger is active!
+2025-02-11 03:10:48,628 -  * Debugger PIN: 256-201-179
+2025-02-11 03:11:13,890 - 127.0.0.1 - - [11/Feb/2025 03:11:13] "GET / HTTP/1.1" 200 -
+2025-02-11 03:11:13,915 - 127.0.0.1 - - [11/Feb/2025 03:11:13] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-11 03:11:37,817 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Tuned hyperparameters for Decision Tree Regressor: {'max_depth': 10}
+Updated Decision Tree Regressor score after tuning: {'MSE': 1.41}
+Tuned hyperparameters for XGBoost Regressor: {'learning_rate': 0.01, 'n_estimators': 50}
+Updated XGBoost Regressor score after tuning: {'MSE': 0.97}
+Tuned hyperparameters for Random Forest Regressor: {'n_estimators': 200}
+Updated Random Forest Regressor score after tuning: {'MSE': 1.09}
+2025-02-11 03:11:37,862 - 127.0.0.1 - - [11/Feb/2025 03:11:37] "POST /process HTTP/1.1" 200 -
+2025-02-11 03:14:02,907 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 03:14:04,201 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:14:30,126 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-11 03:14:30,127 - [33mPress CTRL+C to quit[0m
+2025-02-11 03:14:30,147 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:14:32,579 -  * Debugger is active!
+2025-02-11 03:14:32,582 -  * Debugger PIN: 256-201-179
+2025-02-11 03:14:37,105 - 127.0.0.1 - - [11/Feb/2025 03:14:37] "GET / HTTP/1.1" 200 -
+2025-02-11 03:14:37,130 - 127.0.0.1 - - [11/Feb/2025 03:14:37] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-11 03:14:47,286 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+No hyperparameters tuned for Linear Regression.
+Tuned hyperparameters for Ridge: {'alpha': 10}
+Updated Ridge score after tuning: {'MSE': 0.94}
+Tuned hyperparameters for Lasso: {'alpha': 1}
+Updated Lasso score after tuning: {'MSE': 0.96}
+2025-02-11 03:14:47,300 - 127.0.0.1 - - [11/Feb/2025 03:14:47] "POST /process HTTP/1.1" 200 -
+2025-02-11 03:16:47,771 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 03:16:47,779 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 03:16:49,052 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:17:48,371 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-11 03:17:48,372 - [33mPress CTRL+C to quit[0m
+2025-02-11 03:17:48,384 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:17:50,800 -  * Debugger is active!
+2025-02-11 03:17:50,803 -  * Debugger PIN: 256-201-179
+2025-02-11 03:17:52,257 - 127.0.0.1 - - [11/Feb/2025 03:17:52] "GET / HTTP/1.1" 200 -
+2025-02-11 03:17:52,282 - 127.0.0.1 - - [11/Feb/2025 03:17:52] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-11 03:18:04,001 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+2025-02-11 03:18:04,006 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\model_selection\\_search.py', reloading
+2025-02-11 03:18:04,007 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\utils\\parallel.py', reloading
+2025-02-11 03:18:04,015 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\joblib\\parallel.py', reloading
+2025-02-11 03:18:04,019 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\joblib\\_parallel_backends.py', reloading
+2025-02-11 03:18:04,025 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\model_selection\\_validation.py', reloading
+2025-02-11 03:18:04,034 - 127.0.0.1 - - [11/Feb/2025 03:18:04] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+2025-02-11 03:18:04,192 - 127.0.0.1 - - [11/Feb/2025 03:18:04] "[36mGET /process?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-11 03:18:04,194 - 127.0.0.1 - - [11/Feb/2025 03:18:04] "[36mGET /process?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-11 03:18:04,240 - 127.0.0.1 - - [11/Feb/2025 03:18:04] "[36mGET /process?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-11 03:18:04,278 - 127.0.0.1 - - [11/Feb/2025 03:18:04] "[36mGET /process?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-11 03:18:05,307 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:18:07,624 -  * Debugger is active!
+2025-02-11 03:18:07,627 -  * Debugger PIN: 256-201-179
+2025-02-11 03:18:30,559 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 03:18:31,779 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:18:34,074 -  * Debugger is active!
+2025-02-11 03:18:34,077 -  * Debugger PIN: 256-201-179
+2025-02-11 03:19:19,341 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-11 03:19:19,341 - [33mPress CTRL+C to quit[0m
+2025-02-11 03:19:19,363 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:19:21,568 -  * Debugger is active!
+2025-02-11 03:19:21,571 -  * Debugger PIN: 256-201-179
+2025-02-11 03:19:35,037 - 127.0.0.1 - - [11/Feb/2025 03:19:35] "GET / HTTP/1.1" 200 -
+2025-02-11 03:19:35,061 - 127.0.0.1 - - [11/Feb/2025 03:19:35] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-11 03:19:47,184 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Tuned hyperparameters for Linear Regression: {'fit_intercept': False}
+Updated Linear Regression score after tuning: {'MSE': 0.92}
+Tuned hyperparameters for Ridge: {'alpha': 10}
+Updated Ridge score after tuning: {'MSE': 0.94}
+Tuned hyperparameters for Lasso: {'alpha': 1}
+Updated Lasso score after tuning: {'MSE': 0.96}
+2025-02-11 03:19:47,196 - 127.0.0.1 - - [11/Feb/2025 03:19:47] "POST /process HTTP/1.1" 200 -
+2025-02-11 03:21:35,091 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 03:21:35,092 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 03:21:35,092 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 03:21:36,385 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:21:38,859 -  * Debugger is active!
+2025-02-11 03:21:38,861 -  * Debugger PIN: 256-201-179
+2025-02-11 03:21:42,879 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 03:21:42,880 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 03:21:42,881 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 03:21:44,129 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:30:41,879 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-11 03:30:41,879 - [33mPress CTRL+C to quit[0m
+2025-02-11 03:30:41,893 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:30:44,303 -  * Debugger is active!
+2025-02-11 03:30:44,306 -  * Debugger PIN: 256-201-179
+2025-02-11 03:30:57,004 - 127.0.0.1 - - [11/Feb/2025 03:30:57] "GET / HTTP/1.1" 200 -
+2025-02-11 03:30:57,028 - 127.0.0.1 - - [11/Feb/2025 03:30:57] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-11 03:31:09,101 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Updated Linear Regression score after tuning: {'MSE (Tuned)': 0.92}
+Tuned hyperparameters for Linear Regression: {'fit_intercept': False}
+Updated Ridge score after tuning: {'MSE (Tuned)': 0.94}
+Tuned hyperparameters for Ridge: {'alpha': 10}
+Updated Lasso score after tuning: {'MSE (Tuned)': 0.96}
+Tuned hyperparameters for Lasso: {'alpha': 1}
+2025-02-11 03:31:09,115 - 127.0.0.1 - - [11/Feb/2025 03:31:09] "POST /process HTTP/1.1" 200 -
+2025-02-11 03:31:57,525 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mode.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Logistic Regression model.
+Trained Random Forest model.
+Trained SVM model.
+Trained Decision Tree model.
+Trained KNN model.
+Trained Naïve Bayes model.
+Trained AdaBoost model.
+Trained Gradient Boosting model.
+Trained XGBoost model.
+Updated Random Forest score after tuning: {'Accuracy (Tuned)': 30.0}
+Tuned hyperparameters for Random Forest: {'n_estimators': 100}
+Updated Decision Tree score after tuning: {'Accuracy (Tuned)': 30.5}
+Tuned hyperparameters for Decision Tree: {'max_depth': 10}
+Updated AdaBoost score after tuning: {'Accuracy (Tuned)': 35.5}
+Tuned hyperparameters for AdaBoost: {'learning_rate': 0.1, 'n_estimators': 100}
+2025-02-11 03:31:57,557 - 127.0.0.1 - - [11/Feb/2025 03:31:57] "POST /process HTTP/1.1" 200 -
+2025-02-11 03:34:17,516 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-11 03:34:18,762 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:34:51,430 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-11 03:34:51,430 - [33mPress CTRL+C to quit[0m
+2025-02-11 03:34:51,440 -  * Restarting with watchdog (windowsapi)
+2025-02-11 03:34:54,023 -  * Debugger is active!
+2025-02-11 03:34:54,028 -  * Debugger PIN: 256-201-179
+2025-02-11 03:34:57,559 - 127.0.0.1 - - [11/Feb/2025 03:34:57] "GET / HTTP/1.1" 200 -
+2025-02-11 03:34:57,584 - 127.0.0.1 - - [11/Feb/2025 03:34:57] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-11 03:35:27,744 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mode.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Logistic Regression model.
+Trained Random Forest model.
+Trained SVM model.
+Trained Decision Tree model.
+Trained KNN model.
+Trained Naïve Bayes model.
+Trained AdaBoost model.
+Trained Gradient Boosting model.
+Trained XGBoost model.
+Updated AdaBoost score after tuning: {'Accuracy (Tuned)': 35.5}
+Tuned hyperparameters for AdaBoost: {'learning_rate': 0.1, 'n_estimators': 100}
+2025-02-11 03:35:27,797 - 127.0.0.1 - - [11/Feb/2025 03:35:27] "POST /process HTTP/1.1" 200 -
+2025-02-12 14:54:14,046 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 14:54:14,046 - [33mPress CTRL+C to quit[0m
+2025-02-12 14:54:14,079 -  * Restarting with watchdog (windowsapi)
+2025-02-12 14:54:16,561 -  * Debugger is active!
+2025-02-12 14:54:16,565 -  * Debugger PIN: 454-210-885
+2025-02-12 14:54:41,500 - 127.0.0.1 - - [12/Feb/2025 14:54:41] "GET / HTTP/1.1" 200 -
+2025-02-12 14:54:41,550 - 127.0.0.1 - - [12/Feb/2025 14:54:41] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-12 14:54:41,827 - 127.0.0.1 - - [12/Feb/2025 14:54:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-12 14:54:54,550 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Updated Linear Regression score after tuning: {'MSE (Tuned)': 0.92}
+Tuned hyperparameters for Linear Regression: {'fit_intercept': False}
+Updated Ridge score after tuning: {'MSE (Tuned)': 0.94}
+Tuned hyperparameters for Ridge: {'alpha': 10}
+2025-02-12 14:54:54,601 - 127.0.0.1 - - [12/Feb/2025 14:54:54] "POST /process HTTP/1.1" 200 -
+2025-02-12 15:10:57,044 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 15:10:57,044 - [33mPress CTRL+C to quit[0m
+2025-02-12 15:10:57,061 -  * Restarting with watchdog (windowsapi)
+2025-02-12 15:10:59,722 -  * Debugger is active!
+2025-02-12 15:10:59,726 -  * Debugger PIN: 454-210-885
+2025-02-12 15:11:14,569 - 127.0.0.1 - - [12/Feb/2025 15:11:14] "GET / HTTP/1.1" 200 -
+2025-02-12 15:11:14,601 - 127.0.0.1 - - [12/Feb/2025 15:11:14] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-12 15:11:25,843 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Updated Linear Regression score after tuning: {'MSE (Tuned)': 0.92}
+Tuned hyperparameters for Linear Regression: {'fit_intercept': False}
+Updated Ridge score after tuning: {'MSE (Tuned)': 0.94}
+Tuned hyperparameters for Ridge: {'alpha': 10}
+2025-02-12 15:11:25,885 - 127.0.0.1 - - [12/Feb/2025 15:11:25] "POST /process HTTP/1.1" 200 -
+2025-02-12 15:11:43,045 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\ensemble\\_weight_boosting.py', reloading
+2025-02-12 15:11:45,670 -  * Restarting with watchdog (windowsapi)
+2025-02-12 15:11:47,912 -  * Debugger is active!
+2025-02-12 15:11:47,915 -  * Debugger PIN: 454-210-885
+2025-02-12 15:12:02,215 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 15:12:02,215 - [33mPress CTRL+C to quit[0m
+2025-02-12 15:12:02,224 -  * Restarting with watchdog (windowsapi)
+2025-02-12 15:12:04,854 -  * Debugger is active!
+2025-02-12 15:12:04,857 -  * Debugger PIN: 454-210-885
+2025-02-12 15:12:08,574 - 127.0.0.1 - - [12/Feb/2025 15:12:08] "GET / HTTP/1.1" 200 -
+2025-02-12 15:12:08,618 - 127.0.0.1 - - [12/Feb/2025 15:12:08] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-12 15:12:54,571 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mode.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Logistic Regression model.
+Trained Random Forest model.
+Trained SVM model.
+Trained Decision Tree model.
+Trained KNN model.
+Trained Naïve Bayes model.
+Trained AdaBoost model.
+Trained Gradient Boosting model.
+Trained XGBoost model.
+Updated AdaBoost score after tuning: {'Accuracy (Tuned)': 35.5}
+Tuned hyperparameters for AdaBoost: {'learning_rate': 0.1, 'n_estimators': 100}
+2025-02-12 15:12:54,652 - 127.0.0.1 - - [12/Feb/2025 15:12:54] "POST /process HTTP/1.1" 200 -
+2025-02-12 15:26:55,081 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 15:26:55,081 - [33mPress CTRL+C to quit[0m
+2025-02-12 15:26:55,104 -  * Restarting with watchdog (windowsapi)
+2025-02-12 15:26:57,040 -  * Debugger is active!
+2025-02-12 15:26:57,049 -  * Debugger PIN: 454-210-885
+2025-02-12 15:27:19,991 - 127.0.0.1 - - [12/Feb/2025 15:27:19] "GET / HTTP/1.1" 200 -
+2025-02-12 15:27:20,028 - 127.0.0.1 - - [12/Feb/2025 15:27:20] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-12 15:27:20,167 - 127.0.0.1 - - [12/Feb/2025 15:27:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-12 15:27:35,120 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Updated Linear Regression score after tuning: {'MSE (Tuned)': 0.92}
+Tuned hyperparameters for Linear Regression: {'fit_intercept': False}
+Updated Ridge score after tuning: {'MSE (Tuned)': 0.94}
+Tuned hyperparameters for Ridge: {'alpha': 10}
+Updated Lasso score after tuning: {'MSE (Tuned)': 0.96}
+Tuned hyperparameters for Lasso: {'alpha': 1}
+2025-02-12 15:27:35,130 - 127.0.0.1 - - [12/Feb/2025 15:27:35] "POST /process HTTP/1.1" 200 -
+2025-02-12 15:27:45,435 - 127.0.0.1 - - [12/Feb/2025 15:27:45] "GET / HTTP/1.1" 200 -
+2025-02-12 15:27:45,458 - 127.0.0.1 - - [12/Feb/2025 15:27:45] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-12 15:27:56,294 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+2025-02-12 15:27:56,298 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+2025-02-12 15:27:56,302 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\linear_model\\_base.py', reloading
+2025-02-12 15:27:56,313 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\utils\\validation.py', reloading
+2025-02-12 15:27:56,321 - 127.0.0.1 - - [12/Feb/2025 15:27:56] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+2025-02-12 15:27:56,514 - 127.0.0.1 - - [12/Feb/2025 15:27:56] "[36mGET /process?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-12 15:27:56,523 - 127.0.0.1 - - [12/Feb/2025 15:27:56] "[36mGET /process?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-12 15:27:56,555 - 127.0.0.1 - - [12/Feb/2025 15:27:56] "[36mGET /process?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-12 15:27:56,591 - 127.0.0.1 - - [12/Feb/2025 15:27:56] "[36mGET /process?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-12 15:27:57,814 -  * Restarting with watchdog (windowsapi)
+2025-02-12 15:27:59,943 -  * Debugger is active!
+2025-02-12 15:27:59,946 -  * Debugger PIN: 454-210-885
+2025-02-12 15:28:42,153 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mode.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Logistic Regression model.
+Trained Random Forest model.
+Trained SVM model.
+Trained Decision Tree model.
+Trained KNN model.
+Trained Naïve Bayes model.
+Trained AdaBoost model.
+Trained Gradient Boosting model.
+Trained XGBoost model.
+Updated AdaBoost score after tuning: {'Accuracy (Tuned)': 35.5}
+Tuned hyperparameters for AdaBoost: {'learning_rate': 0.1, 'n_estimators': 100}
+Updated Decision Tree score after tuning: {'Accuracy (Tuned)': 36.5}
+Tuned hyperparameters for Decision Tree: {'max_depth': 30}
+Updated Gradient Boosting score after tuning: {'Accuracy (Tuned)': 38.5}
+Tuned hyperparameters for Gradient Boosting: {'learning_rate': 0.01, 'n_estimators': 200}
+2025-02-12 15:28:42,171 - 127.0.0.1 - - [12/Feb/2025 15:28:42] "POST /process HTTP/1.1" 200 -
+2025-02-12 15:38:37,192 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 15:38:37,192 - [33mPress CTRL+C to quit[0m
+2025-02-12 15:38:37,202 -  * Restarting with watchdog (windowsapi)
+2025-02-12 15:38:39,408 -  * Debugger is active!
+2025-02-12 15:38:39,411 -  * Debugger PIN: 454-210-885
+2025-02-12 15:38:43,680 - 127.0.0.1 - - [12/Feb/2025 15:38:43] "GET / HTTP/1.1" 200 -
+2025-02-12 15:38:43,705 - 127.0.0.1 - - [12/Feb/2025 15:38:43] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-12 15:38:55,168 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Updated Linear Regression score after tuning: {'MSE (Tuned)': 0.92}
+Tuned hyperparameters for Linear Regression: {'fit_intercept': False}
+Updated Ridge score after tuning: {'MSE (Tuned)': 0.94}
+Tuned hyperparameters for Ridge: {'alpha': 10}
+Updated Lasso score after tuning: {'MSE (Tuned)': 0.96}
+Tuned hyperparameters for Lasso: {'alpha': 1}
+2025-02-12 15:38:55,176 - 127.0.0.1 - - [12/Feb/2025 15:38:55] "POST /process HTTP/1.1" 200 -
+2025-02-12 15:39:56,636 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mode.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Logistic Regression model.
+Trained Random Forest model.
+Trained SVM model.
+Trained Decision Tree model.
+Trained KNN model.
+Trained Naïve Bayes model.
+Trained AdaBoost model.
+Trained Gradient Boosting model.
+Trained XGBoost model.
+Updated AdaBoost score after tuning: {'Accuracy (Tuned)': 35.5}
+Tuned hyperparameters for AdaBoost: {'learning_rate': 0.1, 'n_estimators': 100}
+Updated Gradient Boosting score after tuning: {'Accuracy (Tuned)': 38.5}
+Tuned hyperparameters for Gradient Boosting: {'learning_rate': 0.01, 'n_estimators': 200}
+Updated Naïve Bayes score after tuning: {'Accuracy (Tuned)': 35.0}
+Tuned hyperparameters for Naïve Bayes: {'var_smoothing': 1e-09}
+2025-02-12 15:39:56,639 - 127.0.0.1 - - [12/Feb/2025 15:39:56] "POST /process HTTP/1.1" 200 -
+2025-02-12 16:39:44,143 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 16:39:44,144 - [33mPress CTRL+C to quit[0m
+2025-02-12 16:39:44,154 -  * Restarting with watchdog (windowsapi)
+2025-02-12 16:39:46,314 -  * Debugger is active!
+2025-02-12 16:39:46,317 -  * Debugger PIN: 454-210-885
+2025-02-12 16:39:49,281 - 127.0.0.1 - - [12/Feb/2025 16:39:49] "GET / HTTP/1.1" 200 -
+2025-02-12 16:39:49,311 - 127.0.0.1 - - [12/Feb/2025 16:39:49] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-12 16:39:59,963 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Updated Linear Regression score after tuning: {'MSE (Tuned)': 0.92}
+Tuned hyperparameters for Linear Regression: {'fit_intercept': False}
+Updated Ridge score after tuning: {'MSE (Tuned)': 0.94}
+Tuned hyperparameters for Ridge: {'alpha': 10}
+Updated Lasso score after tuning: {'MSE (Tuned)': 0.96}
+Tuned hyperparameters for Lasso: {'alpha': 1}
+2025-02-12 16:39:59,996 - 127.0.0.1 - - [12/Feb/2025 16:39:59] "POST /process HTTP/1.1" 200 -
+2025-02-12 16:40:23,592 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\ensemble\\_weight_boosting.py', reloading
+2025-02-12 16:40:24,837 -  * Restarting with watchdog (windowsapi)
+2025-02-12 16:40:26,904 -  * Debugger is active!
+2025-02-12 16:40:26,907 -  * Debugger PIN: 454-210-885
+2025-02-12 16:40:36,911 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 16:40:36,912 - [33mPress CTRL+C to quit[0m
+2025-02-12 16:40:36,923 -  * Restarting with watchdog (windowsapi)
+2025-02-12 16:40:39,214 -  * Debugger is active!
+2025-02-12 16:40:39,217 -  * Debugger PIN: 454-210-885
+2025-02-12 16:40:41,714 - 127.0.0.1 - - [12/Feb/2025 16:40:41] "GET / HTTP/1.1" 200 -
+2025-02-12 16:40:41,733 - 127.0.0.1 - - [12/Feb/2025 16:40:41] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-12 16:41:31,693 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mode.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Logistic Regression model.
+Trained Random Forest model.
+Trained SVM model.
+Trained Decision Tree model.
+Trained KNN model.
+Trained Naïve Bayes model.
+Trained AdaBoost model.
+Trained Gradient Boosting model.
+Trained XGBoost model.
+Updated AdaBoost score after tuning: {'Accuracy (Tuned)': 35.5}
+Tuned hyperparameters for AdaBoost: {'learning_rate': 0.1, 'n_estimators': 100}
+Updated Gradient Boosting score after tuning: {'Accuracy (Tuned)': 38.5}
+Tuned hyperparameters for Gradient Boosting: {'learning_rate': 0.01, 'n_estimators': 200}
+Updated Decision Tree score after tuning: {'Accuracy (Tuned)': 32.0}
+Tuned hyperparameters for Decision Tree: {'max_depth': 10}
+2025-02-12 16:41:31,704 - 127.0.0.1 - - [12/Feb/2025 16:41:31] "POST /process HTTP/1.1" 200 -
+2025-02-12 16:44:37,676 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-12 16:44:37,677 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-12 16:44:38,915 -  * Restarting with watchdog (windowsapi)
+2025-02-12 16:44:41,024 -  * Debugger is active!
+2025-02-12 16:44:41,027 -  * Debugger PIN: 454-210-885
+2025-02-12 16:46:34,333 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-12 16:46:34,333 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-12 16:46:35,519 -  * Restarting with watchdog (windowsapi)
+2025-02-12 16:46:37,661 -  * Debugger is active!
+2025-02-12 16:46:37,664 -  * Debugger PIN: 454-210-885
+2025-02-12 16:46:54,850 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-12 16:46:54,858 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-12 16:46:54,858 -  * Detected change in 'c:\\Users\\jaide\\OneDrive\\Desktop\\Data Science\\project\\ml model maker\\final\\i.py', reloading
+2025-02-12 16:46:56,061 -  * Restarting with watchdog (windowsapi)
+2025-02-12 16:49:48,224 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 16:49:48,224 - [33mPress CTRL+C to quit[0m
+2025-02-12 16:49:48,235 -  * Restarting with watchdog (windowsapi)
+2025-02-12 16:49:50,354 -  * Debugger is active!
+2025-02-12 16:49:50,357 -  * Debugger PIN: 454-210-885
+2025-02-12 16:50:54,067 - 127.0.0.1 - - [12/Feb/2025 16:50:54] "GET / HTTP/1.1" 200 -
+2025-02-12 16:50:54,088 - 127.0.0.1 - - [12/Feb/2025 16:50:54] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-12 16:51:04,139 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Updated Linear Regression score after tuning: {'MSE (Tuned)': 0.92}
+Tuned hyperparameters for Linear Regression: {'fit_intercept': False}
+Updated Ridge score after tuning: {'MSE (Tuned)': 0.94}
+Tuned hyperparameters for Ridge: {'alpha': 10}
+Updated Lasso score after tuning: {'MSE (Tuned)': 0.96}
+Tuned hyperparameters for Lasso: {'alpha': 1}
+2025-02-12 16:51:04,178 - 127.0.0.1 - - [12/Feb/2025 16:51:04] "POST /process HTTP/1.1" 200 -
+2025-02-12 16:51:10,686 - 127.0.0.1 - - [12/Feb/2025 16:51:10] "GET /download_model HTTP/1.1" 200 -
+2025-02-12 18:34:38,615 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 18:34:38,615 - [33mPress CTRL+C to quit[0m
+2025-02-12 18:34:38,648 -  * Restarting with watchdog (windowsapi)
+2025-02-12 18:34:40,737 -  * Debugger is active!
+2025-02-12 18:34:40,750 -  * Debugger PIN: 454-210-885
+2025-02-12 18:34:46,227 - 127.0.0.1 - - [12/Feb/2025 18:34:46] "GET / HTTP/1.1" 200 -
+2025-02-12 18:34:46,250 - 127.0.0.1 - - [12/Feb/2025 18:34:46] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-12 18:34:56,233 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\feature_selection\\_univariate_selection.py', reloading
+2025-02-12 18:34:57,349 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Selected top features: ['A', 'B', 'C', 'D']
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Updated Linear Regression score after tuning: {'MSE (Tuned)': 0.92}
+Tuned hyperparameters for Linear Regression: {'fit_intercept': False}
+Updated Ridge score after tuning: {'MSE (Tuned)': 0.94}
+Tuned hyperparameters for Ridge: {'alpha': 10}
+Updated Lasso score after tuning: {'MSE (Tuned)': 0.96}
+Tuned hyperparameters for Lasso: {'alpha': 1}
+2025-02-12 18:34:57,398 - 127.0.0.1 - - [12/Feb/2025 18:34:57] "POST /process HTTP/1.1" 200 -
+2025-02-12 18:34:57,897 -  * Restarting with watchdog (windowsapi)
+2025-02-12 18:35:00,127 -  * Debugger is active!
+2025-02-12 18:35:00,130 -  * Debugger PIN: 454-210-885
+2025-02-12 18:35:22,234 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 18:35:22,234 - [33mPress CTRL+C to quit[0m
+2025-02-12 18:35:22,246 -  * Restarting with watchdog (windowsapi)
+2025-02-12 18:35:24,478 -  * Debugger is active!
+2025-02-12 18:35:24,481 -  * Debugger PIN: 454-210-885
+2025-02-12 18:36:10,352 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 18:36:10,353 - [33mPress CTRL+C to quit[0m
+2025-02-12 18:36:10,363 -  * Restarting with watchdog (windowsapi)
+2025-02-12 18:36:12,370 -  * Debugger is active!
+2025-02-12 18:36:12,373 -  * Debugger PIN: 454-210-885
+2025-02-12 18:36:16,213 - 127.0.0.1 - - [12/Feb/2025 18:36:16] "GET / HTTP/1.1" 200 -
+2025-02-12 18:36:16,232 - 127.0.0.1 - - [12/Feb/2025 18:36:16] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-12 18:36:25,630 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\ensemble\\_weight_boosting.py', reloading
+2025-02-12 18:36:26,931 -  * Restarting with watchdog (windowsapi)
+2025-02-12 18:36:29,150 -  * Debugger is active!
+2025-02-12 18:36:29,153 -  * Debugger PIN: 454-210-885
+2025-02-12 18:36:42,091 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 18:36:42,091 - [33mPress CTRL+C to quit[0m
+2025-02-12 18:36:42,106 -  * Restarting with watchdog (windowsapi)
+2025-02-12 18:36:44,308 -  * Debugger is active!
+2025-02-12 18:36:44,310 -  * Debugger PIN: 454-210-885
+2025-02-12 18:36:47,593 - 127.0.0.1 - - [12/Feb/2025 18:36:47] "GET / HTTP/1.1" 200 -
+2025-02-12 18:36:47,611 - 127.0.0.1 - - [12/Feb/2025 18:36:47] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-12 18:37:41,757 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mode.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Selected top features: ['A', 'B', 'C', 'D']
+Applied Standard Scaling to data.
+Trained Logistic Regression model.
+Trained Random Forest model.
+Trained SVM model.
+Trained Decision Tree model.
+Trained KNN model.
+Trained Naïve Bayes model.
+Trained AdaBoost model.
+Trained Gradient Boosting model.
+Trained XGBoost model.
+Updated AdaBoost score after tuning: {'Accuracy (Tuned)': 35.5}
+Tuned hyperparameters for AdaBoost: {'learning_rate': 0.1, 'n_estimators': 100}
+Updated Gradient Boosting score after tuning: {'Accuracy (Tuned)': 38.5}
+Tuned hyperparameters for Gradient Boosting: {'learning_rate': 0.01, 'n_estimators': 200}
+Updated Naïve Bayes score after tuning: {'Accuracy (Tuned)': 35.0}
+Tuned hyperparameters for Naïve Bayes: {'var_smoothing': 1e-09}
+2025-02-12 18:37:41,848 - 127.0.0.1 - - [12/Feb/2025 18:37:41] "POST /process HTTP/1.1" 200 -
+2025-02-12 18:44:53,816 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 18:44:53,816 - [33mPress CTRL+C to quit[0m
+2025-02-12 18:44:53,831 -  * Restarting with watchdog (windowsapi)
+2025-02-12 18:44:56,030 -  * Debugger is active!
+2025-02-12 18:44:56,034 -  * Debugger PIN: 454-210-885
+2025-02-12 18:44:59,794 - 127.0.0.1 - - [12/Feb/2025 18:44:59] "GET / HTTP/1.1" 200 -
+2025-02-12 18:44:59,873 - 127.0.0.1 - - [12/Feb/2025 18:44:59] "GET /static/style.css HTTP/1.1" 200 -
+2025-02-12 18:45:18,867 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Selected top features: ['A', 'B', 'C', 'D']
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Updated Linear Regression score after tuning: {'MSE (Tuned)': 0.92}
+Tuned hyperparameters for Linear Regression: {'fit_intercept': False}
+Updated Ridge score after tuning: {'MSE (Tuned)': 0.94}
+Tuned hyperparameters for Ridge: {'alpha': 10}
+Updated Lasso score after tuning: {'MSE (Tuned)': 0.96}
+Tuned hyperparameters for Lasso: {'alpha': 1}
+2025-02-12 18:45:18,906 - 127.0.0.1 - - [12/Feb/2025 18:45:18] "POST /process HTTP/1.1" 200 -
+2025-02-12 18:45:18,938 - 127.0.0.1 - - [12/Feb/2025 18:45:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-02-12 18:46:12,424 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 18:46:12,425 - [33mPress CTRL+C to quit[0m
+2025-02-12 18:46:12,434 -  * Restarting with watchdog (windowsapi)
+2025-02-12 18:46:14,416 -  * Debugger is active!
+2025-02-12 18:46:14,419 -  * Debugger PIN: 454-210-885
+2025-02-12 18:46:56,540 - 127.0.0.1 - - [12/Feb/2025 18:46:56] "GET / HTTP/1.1" 200 -
+2025-02-12 18:46:56,635 - 127.0.0.1 - - [12/Feb/2025 18:46:56] "GET /static/style.css HTTP/1.1" 200 -
+2025-02-12 18:47:17,153 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+2025-02-12 18:47:17,158 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+2025-02-12 18:47:17,162 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\linear_model\\_logistic.py', reloading
+2025-02-12 18:47:17,168 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\utils\\multiclass.py', reloading
+2025-02-12 18:47:17,176 - 127.0.0.1 - - [12/Feb/2025 18:47:17] "[35m[1mPOST /process HTTP/1.1[0m" 500 -
+2025-02-12 18:47:17,200 - 127.0.0.1 - - [12/Feb/2025 18:47:17] "[36mGET /process?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-12 18:47:17,201 - 127.0.0.1 - - [12/Feb/2025 18:47:17] "[36mGET /process?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-12 18:47:17,220 - 127.0.0.1 - - [12/Feb/2025 18:47:17] "[36mGET /process?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-12 18:47:17,266 - 127.0.0.1 - - [12/Feb/2025 18:47:17] "[36mGET /process?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-02-12 18:47:18,491 -  * Restarting with watchdog (windowsapi)
+2025-02-12 18:47:20,677 -  * Debugger is active!
+2025-02-12 18:47:20,680 -  * Debugger PIN: 454-210-885
+2025-02-12 18:48:14,534 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 18:48:14,534 - [33mPress CTRL+C to quit[0m
+2025-02-12 18:48:14,544 -  * Restarting with watchdog (windowsapi)
+2025-02-12 18:48:16,772 -  * Debugger is active!
+2025-02-12 18:48:16,774 -  * Debugger PIN: 454-210-885
+2025-02-12 18:48:22,847 - 127.0.0.1 - - [12/Feb/2025 18:48:22] "GET / HTTP/1.1" 200 -
+2025-02-12 18:48:22,921 - 127.0.0.1 - - [12/Feb/2025 18:48:22] "GET /static/style.css HTTP/1.1" 200 -
+2025-02-12 18:48:46,072 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 18:48:46,072 - [33mPress CTRL+C to quit[0m
+2025-02-12 18:48:46,086 -  * Restarting with watchdog (windowsapi)
+2025-02-12 18:48:48,124 -  * Debugger is active!
+2025-02-12 18:48:48,128 -  * Debugger PIN: 454-210-885
+2025-02-12 18:48:48,863 - 127.0.0.1 - - [12/Feb/2025 18:48:48] "GET / HTTP/1.1" 200 -
+2025-02-12 18:48:48,929 - 127.0.0.1 - - [12/Feb/2025 18:48:48] "GET /static/style.css HTTP/1.1" 200 -
+2025-02-12 18:48:59,066 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Selected top features: ['A', 'B', 'C', 'D']
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Updated Linear Regression score after tuning: {'MSE (Tuned)': 0.92}
+Tuned hyperparameters for Linear Regression: {'fit_intercept': False}
+Updated Ridge score after tuning: {'MSE (Tuned)': 0.94}
+Tuned hyperparameters for Ridge: {'alpha': 10}
+Updated Lasso score after tuning: {'MSE (Tuned)': 0.96}
+Tuned hyperparameters for Lasso: {'alpha': 1}
+2025-02-12 18:48:59,085 - 127.0.0.1 - - [12/Feb/2025 18:48:59] "POST /process HTTP/1.1" 200 -
+2025-02-12 18:48:59,108 - 127.0.0.1 - - [12/Feb/2025 18:48:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-02-12 18:49:18,399 - 127.0.0.1 - - [12/Feb/2025 18:49:18] "GET /download_model HTTP/1.1" 200 -
+2025-02-12 18:51:30,010 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 18:51:30,010 - [33mPress CTRL+C to quit[0m
+2025-02-12 18:51:30,022 -  * Restarting with watchdog (windowsapi)
+2025-02-12 18:51:32,277 -  * Debugger is active!
+2025-02-12 18:51:32,281 -  * Debugger PIN: 454-210-885
+2025-02-12 18:51:36,426 - 127.0.0.1 - - [12/Feb/2025 18:51:36] "GET / HTTP/1.1" 200 -
+2025-02-12 18:51:36,516 - 127.0.0.1 - - [12/Feb/2025 18:51:36] "GET /static/style.css HTTP/1.1" 200 -
+2025-02-12 18:51:52,175 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Selected top features: ['A', 'B', 'C', 'D']
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Updated Linear Regression score after tuning: {'MSE (Tuned)': 0.92}
+Tuned hyperparameters for Linear Regression: {'fit_intercept': False}
+Updated Ridge score after tuning: {'MSE (Tuned)': 0.94}
+Tuned hyperparameters for Ridge: {'alpha': 10}
+Updated Lasso score after tuning: {'MSE (Tuned)': 0.96}
+Tuned hyperparameters for Lasso: {'alpha': 1}
+2025-02-12 18:51:52,201 - 127.0.0.1 - - [12/Feb/2025 18:51:52] "POST /process HTTP/1.1" 200 -
+2025-02-12 18:51:52,228 - 127.0.0.1 - - [12/Feb/2025 18:51:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-02-12 18:52:35,997 - 127.0.0.1 - - [12/Feb/2025 18:52:35] "GET / HTTP/1.1" 200 -
+2025-02-12 18:52:36,034 - 127.0.0.1 - - [12/Feb/2025 18:52:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-02-12 18:53:00,123 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 18:53:00,123 - [33mPress CTRL+C to quit[0m
+2025-02-12 18:53:00,137 -  * Restarting with watchdog (windowsapi)
+2025-02-12 18:53:02,628 -  * Debugger is active!
+2025-02-12 18:53:02,632 -  * Debugger PIN: 454-210-885
+2025-02-12 18:53:04,449 - 127.0.0.1 - - [12/Feb/2025 18:53:04] "GET / HTTP/1.1" 200 -
+2025-02-12 18:53:04,532 - 127.0.0.1 - - [12/Feb/2025 18:53:04] "GET /static/style.css HTTP/1.1" 200 -
+2025-02-12 18:53:15,894 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Selected top features: ['A', 'B', 'C', 'D']
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Updated Linear Regression score after tuning: {'MSE (Tuned)': 0.92}
+Tuned hyperparameters for Linear Regression: {'fit_intercept': False}
+Updated Ridge score after tuning: {'MSE (Tuned)': 0.94}
+Tuned hyperparameters for Ridge: {'alpha': 10}
+Updated Lasso score after tuning: {'MSE (Tuned)': 0.96}
+Tuned hyperparameters for Lasso: {'alpha': 1}
+2025-02-12 18:53:15,916 - 127.0.0.1 - - [12/Feb/2025 18:53:15] "POST /process HTTP/1.1" 200 -
+2025-02-12 18:53:15,943 - 127.0.0.1 - - [12/Feb/2025 18:53:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-02-12 18:54:28,731 - 127.0.0.1 - - [12/Feb/2025 18:54:28] "GET / HTTP/1.1" 200 -
+2025-02-12 18:54:28,760 - 127.0.0.1 - - [12/Feb/2025 18:54:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-02-12 18:55:17,050 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 18:55:17,050 - [33mPress CTRL+C to quit[0m
+2025-02-12 18:55:17,066 -  * Restarting with watchdog (windowsapi)
+2025-02-12 18:55:19,474 -  * Debugger is active!
+2025-02-12 18:55:19,478 -  * Debugger PIN: 454-210-885
+2025-02-12 18:55:22,286 - 127.0.0.1 - - [12/Feb/2025 18:55:22] "GET / HTTP/1.1" 200 -
+2025-02-12 18:55:22,423 - 127.0.0.1 - - [12/Feb/2025 18:55:22] "GET /static/style.css HTTP/1.1" 200 -
+2025-02-12 18:55:32,554 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Selected top features: ['A', 'B', 'C', 'D']
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Updated Linear Regression score after tuning: {'MSE (Tuned)': 0.92}
+Tuned hyperparameters for Linear Regression: {'fit_intercept': False}
+Updated Ridge score after tuning: {'MSE (Tuned)': 0.94}
+Tuned hyperparameters for Ridge: {'alpha': 10}
+Updated Lasso score after tuning: {'MSE (Tuned)': 0.96}
+Tuned hyperparameters for Lasso: {'alpha': 1}
+2025-02-12 18:55:32,574 - 127.0.0.1 - - [12/Feb/2025 18:55:32] "POST /process HTTP/1.1" 200 -
+2025-02-12 18:55:32,602 - 127.0.0.1 - - [12/Feb/2025 18:55:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-02-12 18:55:53,847 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 18:55:53,847 - [33mPress CTRL+C to quit[0m
+2025-02-12 18:55:53,862 -  * Restarting with watchdog (windowsapi)
+2025-02-12 18:55:56,267 -  * Debugger is active!
+2025-02-12 18:55:56,271 -  * Debugger PIN: 454-210-885
+2025-02-12 18:56:00,329 - 127.0.0.1 - - [12/Feb/2025 18:56:00] "GET / HTTP/1.1" 200 -
+2025-02-12 18:56:00,395 - 127.0.0.1 - - [12/Feb/2025 18:56:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-02-12 18:57:12,594 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 18:57:12,595 - [33mPress CTRL+C to quit[0m
+2025-02-12 18:57:12,611 -  * Restarting with watchdog (windowsapi)
+2025-02-12 18:57:14,863 -  * Debugger is active!
+2025-02-12 18:57:14,865 -  * Debugger PIN: 454-210-885
+2025-02-12 18:57:16,288 - 127.0.0.1 - - [12/Feb/2025 18:57:16] "GET / HTTP/1.1" 200 -
+2025-02-12 18:57:16,362 - 127.0.0.1 - - [12/Feb/2025 18:57:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-02-12 18:57:27,958 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Selected top features: ['A', 'B', 'C', 'D']
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Updated Linear Regression score after tuning: {'MSE (Tuned)': 0.92}
+Tuned hyperparameters for Linear Regression: {'fit_intercept': False}
+Updated Ridge score after tuning: {'MSE (Tuned)': 0.94}
+Tuned hyperparameters for Ridge: {'alpha': 10}
+Updated Lasso score after tuning: {'MSE (Tuned)': 0.96}
+Tuned hyperparameters for Lasso: {'alpha': 1}
+2025-02-12 18:57:27,981 - 127.0.0.1 - - [12/Feb/2025 18:57:27] "POST /process HTTP/1.1" 200 -
+2025-02-12 18:57:28,012 - 127.0.0.1 - - [12/Feb/2025 18:57:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-02-12 19:00:48,615 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mode.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Selected top features: ['A', 'B', 'C', 'D']
+Applied Standard Scaling to data.
+Trained Logistic Regression model.
+Trained Random Forest model.
+Trained SVM model.
+Trained Decision Tree model.
+Trained KNN model.
+Trained Naïve Bayes model.
+Trained AdaBoost model.
+Trained Gradient Boosting model.
+Trained XGBoost model.
+Updated AdaBoost score after tuning: {'Accuracy (Tuned)': 35.5}
+Tuned hyperparameters for AdaBoost: {'learning_rate': 0.1, 'n_estimators': 100}
+Updated Gradient Boosting score after tuning: {'Accuracy (Tuned)': 38.5}
+Tuned hyperparameters for Gradient Boosting: {'learning_rate': 0.01, 'n_estimators': 200}
+Updated Naïve Bayes score after tuning: {'Accuracy (Tuned)': 35.0}
+Tuned hyperparameters for Naïve Bayes: {'var_smoothing': 1e-09}
+2025-02-12 19:00:48,711 - 127.0.0.1 - - [12/Feb/2025 19:00:48] "POST /process HTTP/1.1" 200 -
+2025-02-12 19:00:48,746 - 127.0.0.1 - - [12/Feb/2025 19:00:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-02-12 19:01:37,576 - 127.0.0.1 - - [12/Feb/2025 19:01:37] "GET / HTTP/1.1" 200 -
+2025-02-12 19:01:37,604 - 127.0.0.1 - - [12/Feb/2025 19:01:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-02-12 19:11:04,144 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 19:11:04,145 - [33mPress CTRL+C to quit[0m
+2025-02-12 19:11:04,166 -  * Restarting with watchdog (windowsapi)
+2025-02-12 19:11:06,702 -  * Debugger is active!
+2025-02-12 19:11:06,705 -  * Debugger PIN: 454-210-885
+2025-02-12 19:11:11,386 - 127.0.0.1 - - [12/Feb/2025 19:11:11] "GET / HTTP/1.1" 200 -
+2025-02-12 19:11:11,460 - 127.0.0.1 - - [12/Feb/2025 19:11:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-02-12 19:11:22,508 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Selected top features: ['A', 'B', 'C', 'D']
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Updated Linear Regression score after tuning: {'MSE (Tuned)': 0.92}
+Tuned hyperparameters for Linear Regression: {'fit_intercept': False}
+Updated Ridge score after tuning: {'MSE (Tuned)': 0.94}
+Tuned hyperparameters for Ridge: {'alpha': 10}
+Updated Lasso score after tuning: {'MSE (Tuned)': 0.96}
+Tuned hyperparameters for Lasso: {'alpha': 1}
+2025-02-12 19:11:22,530 - 127.0.0.1 - - [12/Feb/2025 19:11:22] "POST /process HTTP/1.1" 200 -
+2025-02-12 19:11:22,562 - 127.0.0.1 - - [12/Feb/2025 19:11:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-02-12 21:43:07,210 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 21:43:07,210 - [33mPress CTRL+C to quit[0m
+2025-02-12 21:43:07,238 -  * Restarting with watchdog (windowsapi)
+2025-02-12 21:43:10,478 -  * Debugger is active!
+2025-02-12 21:43:10,490 -  * Debugger PIN: 454-210-885
+2025-02-12 21:43:49,174 - 127.0.0.1 - - [12/Feb/2025 21:43:49] "GET / HTTP/1.1" 200 -
+2025-02-12 21:43:49,287 - 127.0.0.1 - - [12/Feb/2025 21:43:49] "GET /static/style.css HTTP/1.1" 200 -
+2025-02-12 21:43:49,541 - 127.0.0.1 - - [12/Feb/2025 21:43:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-12 21:43:58,802 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\feature_selection\\_univariate_selection.py', reloading
+2025-02-12 21:44:00,714 -  * Restarting with watchdog (windowsapi)
+2025-02-12 21:44:03,645 -  * Debugger is active!
+2025-02-12 21:44:03,649 -  * Debugger PIN: 454-210-885
+2025-02-12 21:44:14,139 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 21:44:14,140 - [33mPress CTRL+C to quit[0m
+2025-02-12 21:44:14,166 -  * Restarting with watchdog (windowsapi)
+2025-02-12 21:44:17,323 -  * Debugger is active!
+2025-02-12 21:44:17,329 -  * Debugger PIN: 454-210-885
+2025-02-12 21:44:19,807 - 127.0.0.1 - - [12/Feb/2025 21:44:19] "GET / HTTP/1.1" 200 -
+2025-02-12 21:44:19,899 - 127.0.0.1 - - [12/Feb/2025 21:44:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-02-12 21:44:30,667 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mean.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Replaced outliers in E with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Selected top features: ['A', 'B', 'C', 'D']
+Applied Standard Scaling to data.
+Trained Linear Regression model.
+Trained Random Forest Regressor model.
+Trained SVM Regressor model.
+Trained Decision Tree Regressor model.
+Trained Ridge model.
+Trained Lasso model.
+Trained Elastic Net model.
+Trained XGBoost Regressor model.
+Updated Linear Regression score after tuning: {'MSE (Tuned)': 0.92}
+Tuned hyperparameters for Linear Regression: {'fit_intercept': False}
+Updated Ridge score after tuning: {'MSE (Tuned)': 0.94}
+Tuned hyperparameters for Ridge: {'alpha': 10}
+Updated Lasso score after tuning: {'MSE (Tuned)': 0.96}
+Tuned hyperparameters for Lasso: {'alpha': 1}
+2025-02-12 21:44:30,708 - 127.0.0.1 - - [12/Feb/2025 21:44:30] "POST /process HTTP/1.1" 200 -
+2025-02-12 21:44:30,747 - 127.0.0.1 - - [12/Feb/2025 21:44:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-02-12 21:44:48,060 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 21:44:48,061 - [33mPress CTRL+C to quit[0m
+2025-02-12 21:44:48,077 -  * Restarting with watchdog (windowsapi)
+2025-02-12 21:44:50,753 -  * Debugger is active!
+2025-02-12 21:44:50,757 -  * Debugger PIN: 454-210-885
+2025-02-12 21:44:53,828 - 127.0.0.1 - - [12/Feb/2025 21:44:53] "GET / HTTP/1.1" 200 -
+2025-02-12 21:44:53,904 - 127.0.0.1 - - [12/Feb/2025 21:44:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-02-12 21:45:03,591 -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\ensemble\\_weight_boosting.py', reloading
+2025-02-12 21:45:04,958 -  * Restarting with watchdog (windowsapi)
+2025-02-12 21:45:07,518 -  * Debugger is active!
+2025-02-12 21:45:07,523 -  * Debugger PIN: 454-210-885
+2025-02-12 21:45:16,684 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-12 21:45:16,684 - [33mPress CTRL+C to quit[0m
+2025-02-12 21:45:16,698 -  * Restarting with watchdog (windowsapi)
+2025-02-12 21:45:19,698 -  * Debugger is active!
+2025-02-12 21:45:19,702 -  * Debugger PIN: 454-210-885
+2025-02-12 21:45:21,954 - 127.0.0.1 - - [12/Feb/2025 21:45:21] "GET / HTTP/1.1" 200 -
+2025-02-12 21:45:22,032 - 127.0.0.1 - - [12/Feb/2025 21:45:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-02-12 21:46:13,023 - Processing dataset with 1000 rows and 5 columns.
+Filled missing values in A with mode.
+Filled missing values in B with mean.
+Filled missing values in C with mode.
+Filled missing values in D with mean.
+Filled missing values in E with mode.
+Replaced outliers in B with mean.
+Replaced outliers in D with mean.
+Applied Label Encoding to A.
+Applied Label Encoding to C.
+Selected top features: ['A', 'B', 'C', 'D']
+Applied Standard Scaling to data.
+Trained Logistic Regression model.
+Trained Random Forest model.
+Trained SVM model.
+Trained Decision Tree model.
+Trained KNN model.
+Trained Naïve Bayes model.
+Trained AdaBoost model.
+Trained Gradient Boosting model.
+Trained XGBoost model.
+Updated Decision Tree score after tuning: {'Accuracy (Tuned)': 36.5}
+Tuned hyperparameters for Decision Tree: {'max_depth': 20}
+Updated AdaBoost score after tuning: {'Accuracy (Tuned)': 35.5}
+Tuned hyperparameters for AdaBoost: {'learning_rate': 0.1, 'n_estimators': 100}
+Updated Gradient Boosting score after tuning: {'Accuracy (Tuned)': 38.5}
+Tuned hyperparameters for Gradient Boosting: {'learning_rate': 0.01, 'n_estimators': 200}
+2025-02-12 21:46:13,115 - 127.0.0.1 - - [12/Feb/2025 21:46:13] "POST /process HTTP/1.1" 200 -
+2025-02-12 21:46:13,158 - 127.0.0.1 - - [12/Feb/2025 21:46:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
